@@ -9,7 +9,7 @@ function preload() {
   y = 4;
 
   // デフォルトマップ
-  loadTiledMap("test", "data", mapLoaded);
+  loadTiledMap("village", "data", mapLoaded);
 }
 
 ////////////////////////////////////////////////////////////////////////////////
